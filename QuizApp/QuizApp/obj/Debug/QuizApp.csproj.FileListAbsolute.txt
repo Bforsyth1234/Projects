@@ -1,0 +1,6 @@
+C:\Users\Brooks\Documents\GitHub\Projects\QuizApp\QuizApp\bin\QuizApp.dll.config
+C:\Users\Brooks\Documents\GitHub\Projects\QuizApp\QuizApp\bin\QuizApp.dll
+C:\Users\Brooks\Documents\GitHub\Projects\QuizApp\QuizApp\bin\QuizApp.pdb
+C:\Users\Brooks\Documents\GitHub\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.csprojResolveAssemblyReference.cache
+C:\Users\Brooks\Documents\GitHub\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.dll
+C:\Users\Brooks\Documents\GitHub\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.pdb

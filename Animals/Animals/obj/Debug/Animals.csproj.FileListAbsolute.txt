@@ -1,0 +1,6 @@
+C:\Users\Brooks\Documents\GitHub\Projects\Animals\Animals\bin\Animals.dll.config
+C:\Users\Brooks\Documents\GitHub\Projects\Animals\Animals\bin\Animals.dll
+C:\Users\Brooks\Documents\GitHub\Projects\Animals\Animals\bin\Animals.pdb
+C:\Users\Brooks\Documents\GitHub\Projects\Animals\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\Brooks\Documents\GitHub\Projects\Animals\Animals\obj\Debug\Animals.dll
+C:\Users\Brooks\Documents\GitHub\Projects\Animals\Animals\obj\Debug\Animals.pdb
