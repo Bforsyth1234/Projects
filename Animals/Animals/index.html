@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+                <div class="row clearfix">
+                    <div class="col-md-6 col-md-offset-3 ">
+                    <h1>Brooks' Awesome ZOO</h1>
+                        <div class="well">
+                            <input type="text" class="form-control" id="name" placeholder="Name" />
+                            <input type="text" class="form-control" id="type" placeholder="Type" />
+                            <input type="text" class="form-control" id="breed" placeholder="Breed" />
+                            <input type="text" class="form-control" id="habitat" placeholder="Habitat" />
+                            <input type="text" class="form-control" id="image" placeholder="Image" /><br />
+                            <button id="add" class="btn btn-primary btn-block" onclick="app.create()"><i class="fa fa-plus">&nbspAdd</i></button>
+                            <button id="save" class="btn btn-success" onclick="app.save()"><i class="fa fa-edit"></i>Save</button>
+                         </div>
+                        <div class="well" id="output">
+
+                        </div>
+                        <div class="well">
+                            <button class="btn btn-info" onclick="app.prev()"><i class="fa fa-arrow-left"></i>Previous</button>
+                            <button class="btn pull-right btn-info" onclick="app.next()"><i class="fa fa-arrow-right"></i>Next</button>
+                        </div>
+                        <div class="well">
+                            <button id="edit" class="btn btn-warning" onclick="app.edit()"><i class="fa fa-pencil"></i>Edit</button>
+                            <button class="btn pull-right btn-danger" onclick="app.delete()"><i class="fa fa-trash-o"></i>Delete</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+    <script src="script.js"></script>
+    <script src="Scripts/jquery-1.9.0.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+</body>
+</html>
