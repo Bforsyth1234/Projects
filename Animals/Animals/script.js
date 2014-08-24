@@ -25,11 +25,11 @@ app.create = function () {
     app.currentAnimal = app.animals.length - 1;
     app.output(app.currentAnimal);
 
-    cument.getElementById("name").value = "";
-    cument.getElementById("type").value = "";
-    ocument.getElementById("breed").value = "";
+    document.getElementById("name").value = "";
+    document.getElementById("type").value = "";
+    document.getElementById("breed").value = "";
     document.getElementById("habitat").value = "";
-    ocument.getElementById("image").value = "";
+    document.getElementById("image").value = "";
 };
 
 app.output = function (animalToShow) {
