@@ -104,7 +104,7 @@ app.output = function (x, y) {
     document.getElementById("next").innerHTML = "Next";
     return app.x;
 };
-
+//testing git
 app.answerA = function (x, y) {
     var holder = "";
     if (app.x === 0 || app.x === 3) {
